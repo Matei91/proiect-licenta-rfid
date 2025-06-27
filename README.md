@@ -41,7 +41,7 @@ Rulează aplicația (F5)
 
 Clonează repository-ul:
 
-git clone https://github.com/mateitatar/proiect-licenta-rfid.git
+git clone [https://github.com/mateitatar/proiect-licenta-rfid.git](https://github.com/Matei91/proiect-licenta-rfid.git)
 
 Deschide directorul:
 
