@@ -4,7 +4,7 @@ Pași pentru compilarea aplicației
 **
 Arduino (Nano ESP32)**
 
-Deschide fișierul rfid_system.ino în Arduino IDE
+Deschide fișierul cod_licenta_interfata_final.ino în Arduino IDE
 
 Asigură-te că ai instalate următoarele biblioteci:
 
@@ -27,6 +27,13 @@ Apasă Upload
 Deschide proiect.sln în Visual Studio
 
 Verifică dacă ai instalat:
+
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/dd796061-9370-44ec-a776-df6fc725a14b)
 
 .NET Framework (minim versiunea dotnet 6)
