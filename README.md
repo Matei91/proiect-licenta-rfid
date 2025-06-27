@@ -27,6 +27,7 @@ Apasă Upload
 Deschide proiect.sln în Visual Studio
 
 Verifică dacă ai instalat:
+![image](https://github.com/user-attachments/assets/dd796061-9370-44ec-a776-df6fc725a14b)
 
 .NET Framework (minim versiunea dotnet 6)
 
